@@ -1,0 +1,11 @@
+Contabilidad de ventas
+Producto/Precio
+Xbox 360: $3499
+Xbox One: $5699
+PS 4 Pro: $8999
+Fifa 18: $699
+Resident Evil 7: $499
+
+Total: 19395
+
+Iva total: 3103.2000000000003
